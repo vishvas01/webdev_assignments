@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+	object-fit: fill;
+	background-color: #000000;
+	
+}
+
+
+header h1 {
+    text-align: center;
+    color: #000000;
+    background-image: url("114371.jpg.b74dd61bd1b651c8719c90e89010e9b2.jpg");
+    height: 450px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 451%;
+    line-height: 565%;
+    text-shadow: -11px 10px 13px;
+    vertical-align: middle;
+    border-color: #000000;
+    border-style: solid;
+	
+}
+
+
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  background-color: #FFFFFF;
+  color: #fff;
+}
+
+nav a {
+  display: block;
+  padding: 1em;
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+    padding: 1em;
+    color: #FFFFFF;
+}
+
+section h2 {
+  text-align: center;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em;
+}
